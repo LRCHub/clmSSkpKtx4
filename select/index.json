@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "六等星の夜",
+  "base_artist": "Aimer",
+  "createdAt": "2026-03-19T16:52:19.677642Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "六等星の夜 (from Live at anywhere)",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/01_六等星の夜_(from_Live_at_anywhere)_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "六等星の夜",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/02_六等星の夜_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "六等星の夜 Magic Blue ver.",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/03_六等星の夜_Magic_Blue_ver._Aimer.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "六等星の夜（from Live at anywhere）",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/04_六等星の夜(from_Live_at_anywhere)_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "六等星の夜 Magic Blue ver.",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/05_六等星の夜_Magic_Blue_ver._Aimer.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "六等星の夜 (六等星之夜)",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/06_六等星の夜_(六等星之夜)_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "六等星の夜",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/07_六等星の夜_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "六等星の夜",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/08_六等星の夜_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "六等星の夜 Magic Blue ver. - Rokutouseino Yoru (Magic Blue Version)",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/09_六等星の夜_Magic_Blue_ver._-_Rokutouseino_Yoru_(Magic_Blue_Version)_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "六等星の夜 (Magic Blue ver.)",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/10_六等星の夜_(Magic_Blue_ver.)_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "六等星の夜",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/11_六等星の夜_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "六等星の夜",
+      "artist": "Aimer(エメ)",
+      "has_synced": true,
+      "path": "select/12_六等星の夜_Aimer(エメ).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "六等星の夜",
+      "artist": "Aimer",
+      "has_synced": false,
+      "path": "select/pl_01_六等星の夜_Aimer.txt"
+    }
+  ]
+}
